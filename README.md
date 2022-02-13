@@ -1,2 +1,2 @@
-# timer
+# Timer
 A simple Timer with JavaScript
