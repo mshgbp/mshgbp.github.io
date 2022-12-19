@@ -1,2 +1,2 @@
 # Timer
-A simple Timer with JavaScript
+A simple Timer with JavaScript.
