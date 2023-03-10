@@ -1,3 +1,3 @@
 # mshgbp.github.io
 Public Directories:
-(/imgs)[https://mshgbp.github.io/imgs]
+[/imgs](https://mshgbp.github.io/imgs)
